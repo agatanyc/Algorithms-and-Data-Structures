@@ -27,4 +27,4 @@ class QuickFind():
 if __name__ == '__main__':
     quick_find = QuickFind(10, [])
     print(quick_find)
-    print(_construct_array(10))
+    print(quick_find._construct_array(10))
